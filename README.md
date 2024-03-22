@@ -33,7 +33,7 @@
 
 
 [![html](https://img.shields.io/badge/html-★★☆-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
-[![Arduino](https://img.shields.io/badge/Arduino-★★☆-lightgrey?labelColor=E34F26&logo=arduino&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
+[![Arduino](https://img.shields.io/badge/Arduino-★★☆-lightgrey?labelColor=E34F26&logo=arduino&style=for-the-badge&logoColor=white)](https://www.arduino.cc/)
 
 
 
