@@ -15,7 +15,8 @@
 
 
 ## Social 
-<a href="https://www.linkedin.com/in/nirmal-mathew-alex-013095141/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=medium&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/nirmal-mathew-alex-013095141/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+
 <a href="https://www.linkedin.com/in/nirmal-mathew-alex-013095141/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nmanirmal@gmail.com)](mailto:nmanirmal@gmail.com)
 
