@@ -4,7 +4,7 @@
 
 :heart: Science | :black_heart: Music | :blue_heart: Tech
 - 🔭 PhD in Meteorology (Florida Institute of Technology)
-- 🌱 Currenly research focused on Madded Julian Propagation 
+- 🌱 Currenly focused on propagation of Madded Julian Propagation , ANN based networks for predicting hurricanes
 - 📫 Feel free to reach me on <a href="https://www.linkedin.com/in/nirmal-mathew-alex-013095141" target="_blank">LinkedIn</a>
 - ⚡️ Fun fact: I’m a huge Web series fan 
 
