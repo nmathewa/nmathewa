@@ -8,7 +8,7 @@
 :heart: Science | :black_heart: Music | :blue_heart: Tech
 - 🔭 PhD in Meteorology (Florida Institute of Technology)
 - 🌱 
-- 💬 Ask me about anything [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C8B56D&random=false&width=435&lines=Nirmal+Mathew+Alex;Atmospheric+Sciences+(PhD);Python+developer)](https://git.io/typing-svg), I am happy to help
+- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C8B56D&random=false&width=435&lines=Nirmal+Mathew+Alex;Atmospheric+Sciences+(PhD);Python+developer)](https://git.io/typing-svg)
 - 📫 Feel free to ping me on <a href="https://www.linkedin.com/in/zhdruvo" target="_blank">LinkedIn</a>
 - ⚡️ Fun fact: I’m a huge Web series fan 
 
