@@ -17,17 +17,17 @@
 ## Skills
 [![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-★☆☆-lightgrey?labelColor=276DC3&logo=R&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
-[![MATLAB](https://img.shields.io/badge/MATLAB-★★☆-lightgrey?labelColor=e86e05&logo=matlb&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
+[![MATLAB](https://img.shields.io/badge/MATLAB-★★☆-lightgrey?labelColor=e86e05&logo=matlb&style=for-the-badge&logoColor=white)](https://www.mathworks.com)
 [![bash](https://img.shields.io/badge/bash-★★★-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 [![Latex](https://img.shields.io/badge/Latex-★★☆-lightgrey?labelColor=008080&logo=LaTeX&style=for-the-badge&logoColor=white)](https://www.latex-project.org/)
-[![C++](https://img.shields.io/badge/cpp-★☆☆-lightgrey?labelColor=276DC3&logo=c++&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
+[![C++](https://img.shields.io/badge/cpp-★☆☆-lightgrey?labelColor=276DC3&logo=c++&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 
 
-[![Tensorflow](https://img.shields.io/badge/TensorFlow-★★★-lightgrey?labelColor=orange&logo=tensorflow&style=for-the-badge&logoColor=white)](https://mariadb.org/)
-[![VSCode](https://img.shields.io/badge/VScode-★★★-lightgrey?labelColor=blue&logo=visualstudiocode&style=for-the-badge&logoColor=white)](https://mariadb.org/)
-[![PlatformIO](https://img.shields.io/badge/PlatformIO-★★★-lightgrey?labelColor=e86e05&logo=platformio&style=for-the-badge&logoColor=white)](https://mariadb.org/)
-[![QGIS](https://img.shields.io/badge/QGIS-★★★-lightgrey?labelColor=green&logo=qgis&style=for-the-badge&logoColor=white)](https://mariadb.org/)
-[![GIT](https://img.shields.io/badge/git-★★★-lightgrey?labelColor=e86e05&logo=git&style=for-the-badge&logoColor=white)](https://mariadb.org/)
+[![Tensorflow](https://img.shields.io/badge/TensorFlow-★★★-lightgrey?labelColor=orange&logo=tensorflow&style=for-the-badge&logoColor=white)](https://www.tensorflow.org/)
+[![VSCode](https://img.shields.io/badge/VScode-★★★-lightgrey?labelColor=blue&logo=visualstudiocode&style=for-the-badge&logoColor=white)](https://code.visualstudio.com/)
+[![PlatformIO](https://img.shields.io/badge/PlatformIO-★★★-lightgrey?labelColor=e86e05&logo=platformio&style=for-the-badge&logoColor=white)](https://platformio.org/)
+[![QGIS](https://img.shields.io/badge/QGIS-★★★-lightgrey?labelColor=green&logo=qgis&style=for-the-badge&logoColor=white)](https://qgis.org/en/site/)
+[![GIT](https://img.shields.io/badge/git-★★★-lightgrey?labelColor=e86e05&logo=git&style=for-the-badge&logoColor=white)](https://git-scm.com/)
 
 
 
