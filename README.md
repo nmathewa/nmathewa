@@ -7,7 +7,6 @@
 
 
 
-<a href="https://github.com/druvo"><img width="100%" height="auto" src="img.jpg" /></a>
 
 <a href="https://www.facebook.com/zhdruvo" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Druvo100/)](https://twitter.com/Druvo100/)
