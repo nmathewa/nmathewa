@@ -4,7 +4,7 @@
 
 :heart: Science | :black_heart: Music | :blue_heart: Tech
 - 🔭 PhD in Meteorology (Florida Institute of Technology)
-- 🌱 
+- 🌱 Currenly research focused on Madded Julian Propagation 
 - 📫 Feel free to reach me on <a href="https://www.linkedin.com/in/nirmal-mathew-alex-013095141" target="_blank">LinkedIn</a>
 - ⚡️ Fun fact: I’m a huge Web series fan 
 
