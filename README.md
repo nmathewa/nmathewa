@@ -1,7 +1,3 @@
-### About Me
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C8B56D&random=false&width=435&lines=Nirmal+Mathew+Alex;🔭Atmospheric+Sciences+(PhD);⚡️Python+developer)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C8B56D&random=false&width=435&lines=Nirmal+Mathew+Alex;🔭Atmospheric+Sciences+(PhD);⚡️Python+developer)](https://git.io/typing-svg)
 
 ## About me 
