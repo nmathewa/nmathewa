@@ -2,7 +2,7 @@
 
 ## About me 
 
-🧑‍🔬: Science | 🎹 : Music | 💻: Tech
+🧑‍🔬 Science | 🎹  Music | 💻 Tech
 - 🔭 PhD in Meteorology (Florida Institute of Technology)
 - 🌱 Currenly focused on propagation of Madded Julian Propagation , ANN based networks for predicting hurricanes
 - 📫 Feel free to reach me on <a href="https://www.linkedin.com/in/nirmal-mathew-alex-013095141" target="_blank">LinkedIn</a>
