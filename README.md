@@ -5,6 +5,45 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nmathewa&theme=gruvbox-duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+
+
+```python
+​
+def skills():
+    languages = { 
+        "Python", "C#", "Javascript"
+    }
+    frontend = { 
+        "HTML", "CSS", "XAML",
+        "XML", "JSON"
+    }
+    frameworks = { 
+        "Django","Django Rest Framework", 
+        "ASP.NET MVC", "Bootstrap",
+        "Entity Framework", "WPF", "WCF",
+        "WinForms", "Windows Service"
+    }
+    databases = { 
+        "MS SQL", "Postgres SQL", 
+        "MySQL", "SQL Light" 
+    }
+    tools = {
+        "VS code", "pycharm","Postman", 
+        "SoapUI", "Github", "pycharm", 
+        "Oracle VM Virtualbox", "AWS",
+        "MySQL workbench", "puTTy", "IIS",
+        "SQL server management studio",
+        
+    }     
+    
+    data = [
+      languages, frontend, frameworks, 
+      databases, tools
+    ]
+    return data
+​
+```
+
 ## Social 
 
 [![NMA's Medium](https://github-readme-medium.vercel.app/?username=nmathewa)](https://medium.com/@nmathewa)
