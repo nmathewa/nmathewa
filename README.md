@@ -7,42 +7,16 @@
 
 
 
-```python
-​
-def skills():
-    languages = { 
-        "Python", "C#", "Javascript"
-    }
-    frontend = { 
-        "HTML", "CSS", "XAML",
-        "XML", "JSON"
-    }
-    frameworks = { 
-        "Django","Django Rest Framework", 
-        "ASP.NET MVC", "Bootstrap",
-        "Entity Framework", "WPF", "WCF",
-        "WinForms", "Windows Service"
-    }
-    databases = { 
-        "MS SQL", "Postgres SQL", 
-        "MySQL", "SQL Light" 
-    }
-    tools = {
-        "VS code", "pycharm","Postman", 
-        "SoapUI", "Github", "pycharm", 
-        "Oracle VM Virtualbox", "AWS",
-        "MySQL workbench", "puTTy", "IIS",
-        "SQL server management studio",
-        
-    }     
-    
-    data = [
-      languages, frontend, frameworks, 
-      databases, tools
-    ]
-    return data
-​
-```
+<a href="https://github.com/druvo"><img width="100%" height="auto" src="img.jpg" /></a>
+
+<a href="https://www.facebook.com/zhdruvo" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Druvo100/)](https://twitter.com/Druvo100/)
+<a href="https://www.linkedin.com/in/zhdruvo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9603488/druvo?tab=profile)](https://stackoverflow.com/users/9603488/druvo?tab=profile)
+<a href="https://www.instagram.com/zhdruvo" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+880175819107&text=druvo)](https://api.whatsapp.com/send?phone=+880175819107&text=druvo)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhdruvo@gmail.com)](mailto:zhdruvo@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/druvo/)](https://github.com/druvo/)
 
 ## Social 
 
