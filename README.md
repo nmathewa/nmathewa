@@ -10,6 +10,31 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=nmathewa&theme=gruvbox-duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/nmathewa)
 
+<details>
+  <summary><b>Skills</b></summary>
+
+[![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-★☆☆-lightgrey?labelColor=276DC3&logo=R&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
+[![MATLAB](https://img.shields.io/badge/MATLAB-★★☆-lightgrey?labelColor=e86e05&logo=matlb&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
+[![bash](https://img.shields.io/badge/bash-★★★-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[![Latex](https://img.shields.io/badge/Latex-★★☆-lightgrey?labelColor=008080&logo=LaTeX&style=for-the-badge&logoColor=white)](https://www.latex-project.org/)
+[![C++](https://img.shields.io/badge/cpp-★☆☆-lightgrey?labelColor=276DC3&logo=c++&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
+
+
+[![Tensorflow](https://img.shields.io/badge/TensorFlow-★★★-lightgrey?labelColor=e86e05&logo=tensorflow&style=for-the-badge&logoColor=white)](https://mariadb.org/)
+[![PlatformIO](https://img.shields.io/badge/PlatformIO-★★★-lightgrey?labelColor=e86e05&logo=platformio&style=for-the-badge&logoColor=white)](https://mariadb.org/)
+[![QGIS](https://img.shields.io/badge/QGIS-★★★-lightgrey?labelColor=e86e05&logo=qgis&style=for-the-badge&logoColor=white)](https://mariadb.org/)
+[![GIT](https://img.shields.io/badge/git-★★★-lightgrey?labelColor=e86e05&logo=git&style=for-the-badge&logoColor=white)](https://mariadb.org/)
+
+
+
+
+[![html](https://img.shields.io/badge/html-★★☆-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
+[![Arduino](https://img.shields.io/badge/Arduino-★★☆-lightgrey?labelColor=E34F26&logo=arduino&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
+
+</details>
+
+
 
 <details>
 <summary>Click for GitHub Stats</summary>
