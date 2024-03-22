@@ -7,7 +7,8 @@
 
 [![NMA's Medium](https://github-readme-medium.vercel.app/?username=nmathewa)](https://medium.com/@nmathewa)
 
-<img src="https://www.linkedin.com/in/nirmal-mathew-alex-013095141/education?username=nirmal-mathew-alex" />
+<img src="Deployment
+    linked-6fou822r3-nmathewas-projects.vercel.app/[METHOD]?username=[YOUR_LINKEDIN_USERNAME]" />
 
 ## Personal 
 
