@@ -3,6 +3,7 @@
 ## About me 
 
 - 🔭 PhD in Meteorology (Florida Institute of Technology)
+- 🏫 Currently Located in Melbourne Florida , US
 - 📫 Feel free to reach me on <a href="https://www.linkedin.com/in/nirmal-mathew-alex-013095141" target="_blank">LinkedIn</a>
 
 
@@ -46,7 +47,6 @@
 </p>
 </details>
 
-## Social 
 
 <a href="https://medium.com/@nmathewa" target="_blank"><img src="https://img.shields.io/badge/Medium-%230077B5.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
 <a href="https://www.linkedin.com/in/nirmal-mathew-alex-013095141/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -54,9 +54,6 @@
 
 
 [![NMA's Medium](https://github-readme-medium.vercel.app/?username=nmathewa)](https://medium.com/@nmathewa)
-
-<img src="Deployment
-    linked-6fou822r3-nmathewas-projects.vercel.app/[METHOD]?username=[YOUR_LINKEDIN_USERNAME]" />
 
 ## What's Iam Listening to 
 
