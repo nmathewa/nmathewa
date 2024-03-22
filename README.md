@@ -4,6 +4,7 @@
 
 ![NMAthewa](https://github-readme-stats.vercel.app/api?username=nmathewa&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=nmathewa&theme=gruvbox-duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Social 
 
