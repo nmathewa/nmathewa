@@ -2,17 +2,19 @@
 
 ## About me 
 
-🧑‍🔬 Science | 🎹  Music | 💻 Tech
 - 🔭 PhD in Meteorology (Florida Institute of Technology)
-- 🌱 Currenly focused on propagation of Madded Julian Propagation , ANN based networks for predicting hurricanes
 - 📫 Feel free to reach me on <a href="https://www.linkedin.com/in/nirmal-mathew-alex-013095141" target="_blank">LinkedIn</a>
 - ⚡️ Fun fact: I’m a huge Web series fan
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=nmathewa&theme=gruvbox-duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/nmathewa)
 
-<details>
-  <summary><b>Skills</b></summary>
 
+## Current Projects 
+
+[![](https://img.shields.io/badge/Madden_Julian_Oscillation-blue)](https://medium.com/@nmathewa) ![](https://img.shields.io/badge/ANN_based_Hurricane_intensity_prediction-grey)
+![](https://img.shields.io/badge/Wind_Energy_Toolkit_development-red)
+
+
+
+## Skills
 [![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-★☆☆-lightgrey?labelColor=276DC3&logo=R&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-★★☆-lightgrey?labelColor=e86e05&logo=matlb&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
@@ -32,7 +34,6 @@
 [![html](https://img.shields.io/badge/html-★★☆-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
 [![Arduino](https://img.shields.io/badge/Arduino-★★☆-lightgrey?labelColor=E34F26&logo=arduino&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
 
-</details>
 
 
 
