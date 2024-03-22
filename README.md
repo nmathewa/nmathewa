@@ -11,6 +11,14 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=nmathewa&theme=gruvbox-duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/nmathewa)
 
 
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img alt = "GitHub Stats" src="https://streak-stats.demolab.com?user=nmathewa&theme=gruvbox-duo&hide_border=true&date_format=j%20M%5B%20Y%5D">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmathewa&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+</details>
 
 ## Social 
 
