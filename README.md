@@ -4,13 +4,12 @@
 
 - 🔭 PhD in Meteorology (Florida Institute of Technology)
 - 📫 Feel free to reach me on <a href="https://www.linkedin.com/in/nirmal-mathew-alex-013095141" target="_blank">LinkedIn</a>
-- ⚡️ Fun fact: I’m a huge Web series fan
 
 
 ## Current Projects 
 
 [![](https://img.shields.io/badge/Madden_Julian_Oscillation-blue)]() [![](https://img.shields.io/badge/ANN_based_Hurricane_intensity_prediction-grey)](https://github.com/nmathewa/tropcyc)
-![](https://img.shields.io/badge/Wind_Energy_Toolkit_development-red)()
+![](https://img.shields.io/badge/Wind_Energy_Toolkit_development-red)
 
 
 
@@ -23,9 +22,10 @@
 [![C++](https://img.shields.io/badge/cpp-★☆☆-lightgrey?labelColor=276DC3&logo=c++&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
 
 
-[![Tensorflow](https://img.shields.io/badge/TensorFlow-★★★-lightgrey?labelColor=e86e05&logo=tensorflow&style=for-the-badge&logoColor=white)](https://mariadb.org/)
+[![Tensorflow](https://img.shields.io/badge/TensorFlow-★★★-lightgrey?labelColor=orange&logo=tensorflow&style=for-the-badge&logoColor=white)](https://mariadb.org/)
+[![VSCode](https://img.shields.io/badge/VScode-★★★-lightgrey?labelColor=blue&logo=visualstudiocode&style=for-the-badge&logoColor=white)](https://mariadb.org/)
 [![PlatformIO](https://img.shields.io/badge/PlatformIO-★★★-lightgrey?labelColor=e86e05&logo=platformio&style=for-the-badge&logoColor=white)](https://mariadb.org/)
-[![QGIS](https://img.shields.io/badge/QGIS-★★★-lightgrey?labelColor=e86e05&logo=qgis&style=for-the-badge&logoColor=white)](https://mariadb.org/)
+[![QGIS](https://img.shields.io/badge/QGIS-★★★-lightgrey?labelColor=green&logo=qgis&style=for-the-badge&logoColor=white)](https://mariadb.org/)
 [![GIT](https://img.shields.io/badge/git-★★★-lightgrey?labelColor=e86e05&logo=git&style=for-the-badge&logoColor=white)](https://mariadb.org/)
 
 
@@ -58,6 +58,6 @@
 <img src="Deployment
     linked-6fou822r3-nmathewas-projects.vercel.app/[METHOD]?username=[YOUR_LINKEDIN_USERNAME]" />
 
-## Personal 
+## What's Iam Listening to 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ienbnfpgcgiwhljqjbprdtd2oa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
