@@ -11,7 +11,7 @@
 
 [![](https://img.shields.io/badge/Madden_Julian_Oscillation-blue)]() [![](https://img.shields.io/badge/ANN_based_Hurricane_intensity_prediction-grey)](https://github.com/nmathewa/tropcyc)
 ![](https://img.shields.io/badge/Wind_Energy_Toolkit_development-red)
-
+![](https://img.shields.io/badge/Wxchallenge_dashboard-red)
 
 
 ## Skills
